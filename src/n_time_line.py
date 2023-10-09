@@ -48,7 +48,7 @@ def main():
             of events and returns a pandas DataFrame containing the results. The results are
             printed out into a file.
 
-            Usage: NTimeLine <path_to_the_SQLite_file> <path_to_and_name_of_output_file>
+            Usage: n_time_line.py <path_to_the_SQLite_file> <path_to_and_name_of_output_file>
             """)
         sys.exit(0)
 
